@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca3f675e-fa2b-422e-bf22-e3a3a9d66593" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jWVSKOC0Iv1cBRzkRzx2SI8E3X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="testBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testBank" />
+      <module name="JavaBank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testBank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3f675e-fa2b-422e-bf22-e3a3a9d66593" name="Default Changelist" comment="" />
+      <created>1603919834153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603919834153</updated>
+      <workItem from="1603919835546" duration="147000" />
+      <workItem from="1603919987473" duration="606000" />
+      <workItem from="1603920602050" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1442" y="264" key="CommitChangelistDialog2" timestamp="1603920258122">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1442" y="264" key="CommitChangelistDialog2/0.0.2560.1400/-1920.15.1920.1040@0.0.2560.1400" timestamp="1603920258122" />
+    <state x="1790" y="598" width="594" height="384" key="Github.ShareDialog" timestamp="1603920574481">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1790" y="598" width="594" height="384" key="Github.ShareDialog/0.0.2560.1400/-1920.15.1920.1040@0.0.2560.1400" timestamp="1603920574481" />
+    <state width="1234" height="398" key="GridCell.Tab.0.bottom" timestamp="1603920598032">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.15.1920.1040@0.0.2560.1400" timestamp="1603920598032" />
+    <state width="1234" height="398" key="GridCell.Tab.0.center" timestamp="1603920598031">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.15.1920.1040@0.0.2560.1400" timestamp="1603920598031" />
+    <state width="1234" height="398" key="GridCell.Tab.0.left" timestamp="1603920598031">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.15.1920.1040@0.0.2560.1400" timestamp="1603920598031" />
+    <state width="1234" height="398" key="GridCell.Tab.0.right" timestamp="1603920598032">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.15.1920.1040@0.0.2560.1400" timestamp="1603920598032" />
+    <state x="1421" y="345" key="SettingsEditor" timestamp="1603920615180">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1421" y="345" key="SettingsEditor/0.0.2560.1400/-1920.15.1920.1040@0.0.2560.1400" timestamp="1603920615180" />
+  </component>
+</project>
